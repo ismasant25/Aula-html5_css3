@@ -1,0 +1,26 @@
+body{
+    background:rgba(255, 0, 76, 0.534) ;
+    margin-left:  30px;
+    margin-right: 150px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color:rgb(43, 122, 226) ;
+    font-family: fantasy;
+}
+h2 {
+    color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    font-size: 18px;
+}
+li {
+    font-size: 20px;
+}img {
+    margin-bottom: 20px;
+}
